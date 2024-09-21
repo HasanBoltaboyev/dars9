@@ -1,0 +1,68 @@
+table, th,td{
+    border: 1px solid black;
+    
+}
+
+
+
+td{
+    text-align: center;
+}
+
+
+
+
+table{
+    text-align: center;
+}
+
+
+
+.id{
+    width: 50px;
+    height: 10px;
+    background-color: yellow;
+}
+
+
+
+
+.name{
+    width: 200px;
+    height: 10px;
+    background-color: yellow;
+}
+
+
+
+.pos{
+    width: 150px;
+    height: 10px;
+    background-color: yellow;
+}
+
+
+
+
+.sal{
+    width: 150px;
+    height: 10px;
+    background-color: yellow;
+}
+
+
+.red{
+    width: 50px;
+    height: 20px;
+    background-color: red ;
+    color: white;
+}
+
+
+
+.green{
+    width: 50px;
+    height: 20px;
+    background-color:green ;
+    color: white;
+}
